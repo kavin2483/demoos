@@ -1,0 +1,12 @@
+#one{
+    color: lime;
+}
+.two{
+    color: darkred;
+}
+img{
+    border-radius: 100%;
+}
+div{
+    border: 5px dashed black;
+}
